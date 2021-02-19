@@ -1,5 +1,5 @@
 # UNO-Card-Game
-This a GUI application based on OOP concepts using java built in the netbeans IDE. 
+This a GUI application based on OOP concepts using java built in the netbeans IDE(Group Project). 
 
 This game is for 2-4 players. Every player starts with seven cards, and they are dealt face down. The rest of the cards are placed in a Draw Pile(dock), face down.
 In this game, players have to play all of the cards in their hands in order to win. The game consists of multiple rounds and first player to finish all of the cards in hand wins the round. Scores are updated according to the cards left in the opponents’ hands and first player to reach 500 points will win the game.
